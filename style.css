@@ -150,6 +150,9 @@ nav a:hover {
     gap: 32px;
 }
 
+.titulos {
+    margin: 15px 0;
+}
 .projeto-card {
     background-color: white;
     border: 1px solid var(--cor-borda);
